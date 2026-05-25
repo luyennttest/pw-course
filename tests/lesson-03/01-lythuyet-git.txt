@@ -1,0 +1,8 @@
+git commit --amend
+>> dùng để sửa commit gần nhất
+git commit --amend -m”<message>”
+>> thay đổi commit message mới nhất
+git restore --staged <file>
+>> unstage 1 file cụ thể
+git reset HEAD~1
+>> đưa nội dung commit cuối về working directory 
