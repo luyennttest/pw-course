@@ -1,4 +1,0 @@
-git init: khoi tao repo local
-git add <file_name>: đưa 1 file cụ thể vào staging area để chuẩn bị commit
-git add .: add tất cả các file vào staging area 
-git commit -m"message": tạo 1 bản ghi của các file ở staging area vào lịch sử repository
